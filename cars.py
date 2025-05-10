@@ -34,9 +34,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<h1 style='text-align: center; color:maroon;'>Car Dekho - Cars Price Prediction</h1>", unsafe_allow_html=True)
-with open('OHE.PKL','rb')as encoder1:
+with open('OHE.pkl','rb')as encoder1:
     onehot = pickle.load(encoder1)
-with open('OE.PKL','rb')as encoder2:
+with open('OE.pkl','rb')as encoder2:
     ordinal = pickle.load(encoder2)  
 with open('rscv_m.pkl','rb')as model:
     algo = pickle.load(model)   
