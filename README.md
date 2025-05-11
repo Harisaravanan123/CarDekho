@@ -7,7 +7,8 @@
    to use seamlessly.
 
 ## <p align="left">
-  <img src="https://github.com/user-attachments/assets/e1401f27-5d5d-41d3-86e7-ccd67528edca" width="100" alt="Data Preprocessing Logo">
+  <img src="![Image](https://github.com/user-attachments/assets/9aec1250-95e8-45c3-963a-ae5be2ff1f31)
+">
 </p>DATA CLEANING AND PREPROCESSING:
 * 
 
