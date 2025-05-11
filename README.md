@@ -7,6 +7,6 @@
    to use seamlessly.
 
 ## <p align="left">
-  <img src="https://github.com/user-attachments/assets/9aec1250-95e8-45c3-963a-ae5be2ff1f31"></p>DATA CLEANING AND PREPROCESSING:
+  <img src="https://github.com/user-attachments/assets/9aec1250-95e8-45c3-963a-ae5be2ff1f31" width ='100'></p>DATA CLEANING AND PREPROCESSING:
 * 
 
