@@ -12,4 +12,5 @@
 * Extracting datas from all the 6 cities excel sheets and convert it into a dataframe in a readable format.
 * I removed columns, which had more that 30% null values. I also remove some columns, which are repetitive in the same name with some minor word changes.
 * I removed the symbols and commas that present in the numerical columns for model training.
+* 
 
