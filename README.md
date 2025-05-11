@@ -7,6 +7,9 @@
    to use seamlessly.
 
 ## <p align="left">
-  <img src="https://github.com/user-attachments/assets/9aec1250-95e8-45c3-963a-ae5be2ff1f31" width ='100'></p>DATA CLEANING AND PREPROCESSING:
-* 
+  <img src="https://github.com/user-attachments/assets/9aec1250-95e8-45c3-963a-ae5be2ff1f31" width ='100'></p>
+## DATA CLEANING AND PREPROCESSING:
+* Extracting datas from all the 6 cities excel sheets and convert it into a dataframe in a readable format.
+* I removed columns, which had more that 30% null values. I also remove some columns, which are repetitive in the same name with some minor word changes.
+* I removed the symbols and commas that present in the numerical columns for model training.
 
