@@ -7,6 +7,8 @@
    that predicts the prices of used cars based on various features. This tool should be deployed as an interactive web application for both customers and sales representatives 
    to use seamlessly.
 
-## ![Image](https://github.com/user-attachments/assets/e1401f27-5d5d-41d3-86e7-ccd67528edca) DATA CLEANING AND PREPROCESSING:
+## ![Image](https://github.com/user-attachments/assets/e1401f27-5d5d-41d3-86e7-ccd67528edca) <p align="left">
+  <img src="images/data_preprocess_logo.png" width="100" alt="Data Preprocessing Logo">
+</p>DATA CLEANING AND PREPROCESSING:
 * 
 
