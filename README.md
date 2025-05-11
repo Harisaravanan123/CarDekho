@@ -1,2 +1,2 @@
 # CARDEKHO - USED CAR PRICE PREDICTIONS
-![]("cardekho image.webp")
+![Project logo](cardekho image.webp)
